@@ -1,1 +1,2 @@
-This is a new file.
+Git is version control system.
+Git is free software.
